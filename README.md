@@ -1,4 +1,4 @@
-<h2 align="left">Desenvolvedor FullStack</h2>
+<h2 align="left">Desenvolvedor FullStack | Analista de Sistemas</h2>
 
 ###
 
